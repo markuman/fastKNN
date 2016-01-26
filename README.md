@@ -53,8 +53,8 @@ Play with the Dataset.
 
 * `classified` - result of KNN
 * `k`  
-  * nargin: define `k` 
-  * nargout: information which `k` was taken _(...when `k` was automatically determined)_
+  * nargin: the defined `k` 
+  * nargout: information which `k` was taken _(...when `k` was automatically determined!)_
 * `dist` - sorted calculated distances
 * `idx`  - Index to map sorted distances `dist` to input dataset `trained`
 * `distance` - default = 2
