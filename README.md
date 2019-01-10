@@ -2,6 +2,10 @@
 
 Loop-Free KNN algorithm for GNU Octave and Matlab
 
+* Origin: https://git.osuv.de/m/fastknn
+* Pull Mirror: https://gitlab.com/markuman/fastknn
+* Push Mirror: https://github.com/markuman/fastknn
+
 # Dataset
 
 Dataset taken from http://www.jiaaro.com/KNN-for-humans/
